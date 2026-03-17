@@ -104,6 +104,7 @@ on:
           - rock-5-itx
           - rock5b
           - rock5c
+          - tcn200
           - ruisen-box
           - s905
           - s905-beelink-mini
